@@ -30,6 +30,8 @@
 ![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5)
 ![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3&logoColor=blue)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![Firebase](https://img.shields.io/badge/-Firebase-black?style=flat-square&logo=firebase)
+![Sass](https://img.shields.io/badge/-Sass-black?style=flat-square&logo=sass)
 
 ### 📚 Libs e Frameworks:
 ![Nodejs](https://img.shields.io/badge/-NodeJS-black?style=flat-square&logo=Node.js)
