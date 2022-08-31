@@ -33,6 +33,7 @@
 <br/>
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Firebase](https://img.shields.io/badge/-Firebase-black?style=flat-square&logo=firebase)
+![Storybook](https://img.shields.io/badge/-Storybook-black?style=flat-square&logo=storybook)
 <br/>
 
 ### 📚 Libs e Frameworks:
