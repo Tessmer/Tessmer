@@ -20,7 +20,7 @@
 
 <!-- Body -->
 <p align="justify">
-  E aí, Github <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="20px" width="20px"></a>! Eu sou desenvolvedora Front End e atualmente trabalho na <a href="https://nave.rs">Nave.rs</a>. Tenho 21 anos, sou iniciante na carreira de tecnologia e estou sempre em busca da minha evolução profissional.
+  E aí, Github <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="20px" width="20px"></a>! Eu sou desenvolvedora Front End e atualmente, após um layoff, estou tentando uma realocação no cenário tecnológico. Tenho 21 anos, tenho dois anos de experiência na carreira de tecnologia e estou sempre em busca da minha evolução profissional.
   <br/>
   <br/>
 </p>
@@ -30,8 +30,10 @@
 ![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5)
 ![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3&logoColor=blue)
 ![Sass](https://img.shields.io/badge/-Sass-black?style=flat-square&logo=sass)
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![Tailwind](https://img.shields.io/badge/-Tailwind-black?style=flat-square&logo=tailwind-css)
+![StyledComponents](https://img.shields.io/badge/-StyledComponents-black?style=flat-square&logo=styled-components)
 <br/>
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Firebase](https://img.shields.io/badge/-Firebase-black?style=flat-square&logo=firebase)
 ![Storybook](https://img.shields.io/badge/-Storybook-black?style=flat-square&logo=storybook)
 <br/>
